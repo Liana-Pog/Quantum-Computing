@@ -16,6 +16,10 @@
 
 * <https://arxiv.org/abs/1704.05018>
 
+* <http://www.arxiv-vanity.com/papers/1708.01044/>
+
+* <https://www.cambridge.org/am/academic/subjects/physics/condensed-matter-physics-nanoscience-and-mesoscopic-physics/introduction-many-body-physics?format=HB>
+
 ## Task 3
 * <https://arxiv.org/abs/1805.04431>
 
@@ -24,10 +28,15 @@
 * <https://museum.thebigbelltest.org/quest/>
 
 ## Task 4
-All links are in the files
+* <https://academic.oup.com/nsr/article/6/1/24/5094563>
 
+* <https://physics.aps.org/articles/v12/s120>
 
+* <https://jila.colorado.edu/dzanderson/research-area-description/neutral-atom-quantum-computing>
 
+* <https://www.techspot.com/news/77887-new-type-quantum-computer-has-smashed-every-record.html>
+
+* <https://phys.org/news/2020-04-speeding-up-quantum-giant-atomic-ions.html>
 
 
 
