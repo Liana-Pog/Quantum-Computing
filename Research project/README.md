@@ -1,7 +1,7 @@
 # Necessary links
 
 ## Task 1
-..* <https://www.economist.com/news/essays/21717782-quantum-technology-beginning-come-its-own>
+* <https://www.economist.com/news/essays/21717782-quantum-technology-beginning-come-its-own>
 
 ## Task 2
 ..* <https://www.nature.com/articles/nature24654>
