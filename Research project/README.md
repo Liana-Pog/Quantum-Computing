@@ -1,8 +1,7 @@
 # Necessary links
 
 ## Task 1
-..* [I'm an inline-style link]
- (https://www.economist.com/news/essays/21717782-quantum-technology-beginning-come-its-own)
+<https://www.economist.com/news/essays/21717782-quantum-technology-beginning-come-its-own>
 
 ## Task 2
 ..*[I'm an inline-style link] 
@@ -23,7 +22,7 @@
 ..*[I'm an inline-style link]
 (https://arxiv.org/abs/1704.05018)
 
-##Task 3
+## Task 3
 ..*[I'm an inline-style link]
 (https://arxiv.org/abs/1805.04431)
 
